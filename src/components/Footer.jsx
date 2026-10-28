@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <p>GARAGEM 47</p>
+      <p>© {new Date().getFullYear()} GARAGEM 47 · Projeto FIAP</p>
     </footer>
   )
 }
